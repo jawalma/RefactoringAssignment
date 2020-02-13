@@ -2,7 +2,7 @@ public class InsuranceCalculator {
 
     private InsuranceStrategy strategy;
 
-
+//Completed In Class
 
     public double calculateInsurance(double income) {
         if (income <= 10000) {
